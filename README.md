@@ -4,7 +4,7 @@ A simple **Netflix Clone** built using **HTML and CSS**.
 This project replicates the basic layout and design of the Netflix homepage — made for learning frontend web development.
 
 ## 🚀 Demo
-🔗 **Live Demo:** [Click Here](https://Shivam191205.github.io/Netflix-clone/)
+🔗 **Live Demo:** [Click Here](https://Shivam191205.github.io/netflix-clone-ui/)
 
 
 ## 🧠 Features
